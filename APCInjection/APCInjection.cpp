@@ -1,6 +1,7 @@
 // APCInjection.cpp : Ce fichier contient la fonction 'main'. L'exécution du programme commence et se termine à cet endroit.
 //
 // Author : Im0s - 07/01/2024
+// Source : SEKTOR7
 
 #include <iostream>
 #include <Windows.h>
